@@ -9,7 +9,7 @@ pandoc -t revealjs --template=template-index.html -s --variable theme="black" --
 ```
 
 <aside class="notes">
-Every top level markdown header in this file will be translated into a "section" in your HTML5 output. This output will be plain, using only the base reveal.js style. The command above, mutatis mutandis, will let you do the conversion.
+Every top level markdown header in this file will be translated into a "section" in your HTML5 output. This output will be plain, using only the base reveal.js style. The command above, mutatis mutandis, will let you do the conversion.  Change.
 </aside>
 
 # Adding audio
